@@ -4,7 +4,7 @@ set -x
 COMPONENTS=(app)
 
 #7.0.1 7.0.2 7.1.0 7.2.0 8.0.0
-VERSION="7.0.0"
+VERSION="7.0.1"
 
 download_dir="$(mktemp -d)"
 # Cleans up the temp dir on exit.
